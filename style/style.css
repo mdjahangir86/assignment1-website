@@ -1,3 +1,6 @@
+
+/* banner style */
+
 .header {
     background-image: url(../images/banner/banner2.png);
     url(top-view-abstract-assortment-with-innovation-elements.jpg);
@@ -34,4 +37,40 @@
     height: 64px;
     border-radius: 5px;
     background:crimson;
+}
+
+/* main style */
+
+.previous-title{
+    display: flex;
+    margin-top: 130px;
+    margin-left: 150px;
+    margin-right: 300px;
+}
+.previous-source{
+   
+}
+.previous-sub-title{
+    font-size: 40px;
+    text-align: left;
+    margin-left: 60px;
+    margin-top: 230px;
+    color: black;
+
+}
+.previous-contain{
+    font-size: 16px;
+    text-align: left;
+    margin-left: 60px;
+    color: #444343;
+    margin-top: 20px;
+
+}
+.previous-description{
+    font-size: 16px;
+    text-align: left;
+    margin-left: 45px;
+    margin-top: 16px;
+    color: #444343;
+
 }
