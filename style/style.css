@@ -26,7 +26,7 @@
 
 .banner-sub-title {
     font-size: 18px;
-    color:darkmagenta;
+    color:rgb(255, 20, 20);
     margin-right: 400px;
 }
 
@@ -197,7 +197,7 @@ input[type=checkbox]+label::before {
 .keep {
     margin-top: 700px;
     margin-bottom: 100px;
-    background-image: url(../images/watch.png), url(../images/gradient2.png);
+    background-image: url(../images/watch.png);
     background-repeat: no-repeat;
     background-size: cover;
     left: 230px;
@@ -212,6 +212,7 @@ input[type=checkbox]+label::before {
 .keep-title{
     margin-left: 280px;
     padding: 30px;
+    background-image: linear-gradient(red yellow);
 
 }
 .keep-sub-title{
