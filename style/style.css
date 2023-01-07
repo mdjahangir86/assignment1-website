@@ -50,6 +50,25 @@
 .previous-source{
    
 }
+.form-item{
+    margin-left: 70px;
+    
+}
+input[type=checkbox] + label{
+    display: block;
+    
+}
+input[type=checkbox]{
+    display: none;
+   
+}
+input[type=checkbox] + label::before{
+    content: "\2714";
+    color: crimson;
+   
+}
+
+
 .previous-sub-title{
     font-size: 40px;
     text-align: left;
